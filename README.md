@@ -23,6 +23,7 @@ Future Plans:
 <hr>
 
 <p><b>Main logs:</b></p>
+
 ![image](https://github.com/user-attachments/assets/86fbd18c-9a06-4cca-a094-e236198054e5)
 
 <p><b>Beaconing timers</b></p>
