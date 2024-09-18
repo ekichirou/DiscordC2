@@ -20,7 +20,7 @@ Future Plans:
 - Custom implant
 - Better logging and error handling
 
-Media:
+Media:<br>
 ![image](https://github.com/user-attachments/assets/86fbd18c-9a06-4cca-a094-e236198054e5)
 ![image](https://github.com/user-attachments/assets/7b4b6c66-051e-402c-8c89-b537ee85b99e)
 ![image](https://github.com/user-attachments/assets/8c2f8e07-ebb8-497b-b67f-4499a32fd67c)
