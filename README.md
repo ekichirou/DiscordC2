@@ -20,6 +20,7 @@ Future Plans:
 - Fetch the whole code remotely instead of providing it all
 - Custom implant
 - Better logging and error handling
+- Add more "help" options
 <hr>
 
 <p><b>Main logs:</b></p>
