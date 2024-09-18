@@ -1,8 +1,8 @@
 # DiscordC2
 Custom Discord C2 leveraging Iron Python
 <hr>
-This is a personal project i made to practice Pytho and Iron Python for Discord C2 development. The project itself is in early stages and there is a lot of improvements to be made.
-<br>
+This is a personal project i made to practice Pytho and Iron Python for Discord C2 development. The project itself is in early stages and there is a lot of improvements to be made.<br>
+
 What can it do?
 - Custom AMSI patching
 - In-memory assembly execution
