@@ -1,7 +1,7 @@
 # DiscordC2
 Custom Discord C2 leveraging Iron Python
 <hr>
-This is a personal project i made to practice Python and Iron Python for Discord C2 development. The project itself is in early stages and there is a lot of improvements to be made.
+This is a personal project I made to practice Python and Iron Python for Discord C2 development. The project itself is in early stages and there is a lot of improvements to be made.
 <p></p>
 
 What can it do?
