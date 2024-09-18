@@ -25,13 +25,13 @@ Future Plans:
 Media:<br>
 Main logs:<br>
 ![image](https://github.com/user-attachments/assets/86fbd18c-9a06-4cca-a094-e236198054e5)
-Beaconing timers:<br>
+<p>Beaconing timers:</p>
 ![image](https://github.com/user-attachments/assets/7b4b6c66-051e-402c-8c89-b537ee85b99e)
-Supported commands:<br>
+<p>Supported commands:</p>
 ![image](https://github.com/user-attachments/assets/8c2f8e07-ebb8-497b-b67f-4499a32fd67c)
-Custom AMSI bypass:<br>
+<p>Custom AMSI bypass:</p>
 ![image](https://github.com/user-attachments/assets/c6cd3966-2e44-4561-b8d4-d89ab65592d1)
-Encrypted exfiltration<br>
+<p>Encrypted exfiltration</p>
 ![image](https://github.com/user-attachments/assets/50f95af3-6bb2-4581-8793-e3344196852d)
-Aseembly execution:<br>
+<p>Aseembly execution:</p>
 ![image](https://github.com/user-attachments/assets/3e18943c-2156-4490-8cf0-c09d4292e212)
