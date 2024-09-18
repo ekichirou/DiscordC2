@@ -22,10 +22,8 @@ Future Plans:
 - Better logging and error handling
 <hr>
 
-Media:<br>
-<p><b>Main logs:</b>
+<p><b>Main logs:</b></p>
 ![image](https://github.com/user-attachments/assets/86fbd18c-9a06-4cca-a094-e236198054e5)
-</p>
 
 <p><b>Beaconing timers</b></p>
 ![image](https://github.com/user-attachments/assets/7b4b6c66-051e-402c-8c89-b537ee85b99e)
